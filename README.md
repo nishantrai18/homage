@@ -19,3 +19,17 @@ Code and dataloaders for the dataset will be made available here.
 ### Frame-level Scene Graph Annotation
 
 ![scene_graph](https://user-images.githubusercontent.com/7645118/123186630-68c14900-d44d-11eb-84bb-523edc580ba1.png)
+
+## Citing
+
+If our paper or dataset was useful to you, please consider citing it using the below.
+~~~
+@InProceedings{Rai_2021_CVPR,
+    author    = {Rai, Nishant and Chen, Haofeng and Ji, Jingwei and Desai, Rishi and Kozuka, Kazuki and Ishizaka, Shun and Adeli, Ehsan and Niebles, Juan Carlos},
+    title     = {Home Action Genome: Cooperative Compositional Action Understanding},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {11184-11193}
+}
+~~~
